@@ -10,7 +10,7 @@ tests/comparison/
 tests/adhoc/test_anything.py
 custom.png
 
-# allure1
+# allure
 allure-results/
 allure-report/
 
